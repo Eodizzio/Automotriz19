@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Presentación\FrmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\FrmClientesCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\FrmInsertarFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\Reportes\FacturasFechas\FrmFacturasFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\Reportes\FacturaTipoCli\FrmReporteTPCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentación\Reportes\MarcasVendidas\FrmReporteMarcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Presentación\Reportes\FacturasFechas\DataSetFacturasFechas.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Presentación\Reportes\FacturaTipoCli\DataSetFacturasTipoCli.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Presentación\Reportes\MarcasVendidas\DataSetMarcas.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

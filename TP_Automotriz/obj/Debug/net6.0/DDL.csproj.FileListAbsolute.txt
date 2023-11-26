@@ -1,0 +1,24 @@
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.csproj.AssemblyReference.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.AssemblyInfoInputs.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.AssemblyInfo.cs
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.csproj.CoreCompileInputs.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\bin\Debug\net6.0\DDL.deps.json
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\bin\Debug\net6.0\DDL.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\bin\Debug\net6.0\DDL.pdb
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\refint\DDL.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.pdb
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\ref\DDL.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\bin\Debug\net6.0\DDL.deps.json
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\bin\Debug\net6.0\DDL.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\bin\Debug\net6.0\DDL.pdb
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.csproj.AssemblyReference.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.AssemblyInfoInputs.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.AssemblyInfo.cs
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.csproj.CoreCompileInputs.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\refint\DDL.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\DDL.pdb
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\TP_Automotriz\obj\Debug\net6.0\ref\DDL.dll

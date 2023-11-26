@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Frontend",
+    "\\Frontend\\HTTP",
+    "\\TP_Automotriz",
+    "\\TP_Automotriz\\Datos",
+    "\\TP_Automotriz\\Dominio",
+    "\\TP_Automotriz\\Servicios"
+  ],
+  "SelectedNode": "\\Frontend\\HTTP\\ClientSingleton.cs",
+  "PreviewInSolutionExplorer": false
+}

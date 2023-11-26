@@ -1,0 +1,159 @@
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.AssemblyReference.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend..resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.GenerateResource.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.AssemblyInfoInputs.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.AssemblyInfo.cs
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.CoreCompileInputs.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmPrincipal.resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmInsertarFacturas.resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.exe
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.deps.json
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.runtimeconfig.json
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.pdb
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\DDL.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\DDL.pdb
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.CopyComplete
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\refint\Frontend.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.pdb
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.genruntimeconfig.cache
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\ref\Frontend.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmClientesCRUD.resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmInsertarCliente.resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmProductos.resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmLogin.resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmAcercaDe.resources
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\PRO II\Ferro TP\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.Reportes.FrmReporte.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.exe
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.deps.json
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.runtimeconfig.json
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Frontend.pdb
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\DDL.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\DDL.pdb
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.AssemblyReference.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend..resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmAcercaDe.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmClientesCRUD.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmInsertarFacturas.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmLogin.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmPrincipal.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.FrmProductos.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.GenerateResource.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.AssemblyInfoInputs.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.AssemblyInfo.cs
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.CoreCompileInputs.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.csproj.CopyComplete
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\refint\Frontend.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.pdb
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.genruntimeconfig.cache
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\ref\Frontend.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.Reportes.MarcasVendidas.FrmReporteMarcas.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.Reportes.FacturaTipoCli.FrmReporteTPCli.resources
+D:\TUP\TP INTEGRADOR\TP_INTEGRADOR - copia\Frontend\obj\Debug\net6.0-windows\Frontend.Presentación.Reportes.FacturasFechas.FrmFacturasFechas.resources

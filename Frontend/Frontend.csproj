@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Presentación\Reportes\FacturasFechas\ReportFFechas.rdlc" />
+    <None Remove="Presentación\Reportes\FacturaTipoCli\ReportFTCli.rdlc" />
+    <None Remove="Presentación\Reportes\MarcasVendidas\ReportMarcas.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Presentación\Reportes\FacturasFechas\ReportFFechas.rdlc" />
+    <EmbeddedResource Include="Presentación\Reportes\FacturaTipoCli\ReportFTCli.rdlc" />
+    <EmbeddedResource Include="Presentación\Reportes\MarcasVendidas\ReportMarcas.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="ReportViewerCore.WinForms" Version="15.1.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TP_Automotriz\DDL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Presentación\Reportes\FacturasFechas\DataSetFacturasFechas.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSetFacturasFechas.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="Presentación\Reportes\FacturaTipoCli\DataSetFacturasTipoCli.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSetFacturasTipoCli.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="Presentación\Reportes\MarcasVendidas\DataSetMarcas.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSetMarcas.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="Reportes\DataSet1.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Presentación\Reportes\FacturasFechas\DataSetFacturasFechas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFacturasFechas.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Presentación\Reportes\FacturaTipoCli\DataSetFacturasTipoCli.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFacturasTipoCli.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Presentación\Reportes\MarcasVendidas\DataSetMarcas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMarcas.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Reportes\DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

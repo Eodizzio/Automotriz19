@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSMarcas" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=localhost;Initial Catalog=Automotriz_tp;Integrated Security=True" IsAppSettingsProperty="false" Modifier="Assembly" Name="laptop-4oj9jmjk.Automotriz_tp.dbo" ParameterPrefix="@" Provider="Microsoft.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSMarcas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSMarcas" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSMarcas">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DTRMarcas" msprop:Generator_RowEvHandlerName="DTRMarcasRowChangeEventHandler" msprop:Generator_RowDeletedName="DTRMarcasRowDeleted" msprop:Generator_RowDeletingName="DTRMarcasRowDeleting" msprop:Generator_RowEvArgName="DTRMarcasRowChangeEvent" msprop:Generator_TablePropName="DTRMarcas" msprop:Generator_RowChangedName="DTRMarcasRowChanged" msprop:Generator_RowChangingName="DTRMarcasRowChanging" msprop:Generator_TableClassName="DTRMarcasDataTable" msprop:Generator_RowClassName="DTRMarcasRow" msprop:Generator_TableVarName="tableDTRMarcas" msprop:Generator_UserTableName="DTRMarcas">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codigo" msprop:Generator_ColumnPropNameInRow="Codigo" msprop:Generator_ColumnPropNameInTable="CodigoColumn" msprop:Generator_ColumnVarNameInTable="columnCodigo" msprop:Generator_UserColumnName="Codigo" type="xs:int" minOccurs="0" />
+              <xs:element name="Producto" msprop:Generator_ColumnPropNameInRow="Producto" msprop:Generator_ColumnPropNameInTable="ProductoColumn" msprop:Generator_ColumnVarNameInTable="columnProducto" msprop:Generator_UserColumnName="Producto" type="xs:string" minOccurs="0" />
+              <xs:element name="Marca" msprop:Generator_ColumnPropNameInRow="Marca" msprop:Generator_ColumnPropNameInTable="MarcaColumn" msprop:Generator_ColumnVarNameInTable="columnMarca" msprop:Generator_UserColumnName="Marca" type="xs:string" minOccurs="0" />
+              <xs:element name="Modelo" msprop:Generator_ColumnPropNameInRow="Modelo" msprop:Generator_ColumnPropNameInTable="ModeloColumn" msprop:Generator_ColumnVarNameInTable="columnModelo" msprop:Generator_UserColumnName="Modelo" type="xs:string" minOccurs="0" />
+              <xs:element name="Color" msprop:Generator_ColumnPropNameInRow="Color" msprop:Generator_ColumnPropNameInTable="ColorColumn" msprop:Generator_ColumnVarNameInTable="columnColor" msprop:Generator_UserColumnName="Color" type="xs:int" minOccurs="0" />
+              <xs:element name="Facturacion" msprop:Generator_ColumnPropNameInRow="Facturacion" msprop:Generator_ColumnPropNameInTable="FacturacionColumn" msprop:Generator_ColumnVarNameInTable="columnFacturacion" msprop:Generator_UserColumnName="Facturacion" type="xs:int" minOccurs="0" />
+              <xs:element name="CantidadVentas" msprop:Generator_ColumnPropNameInRow="CantidadVentas" msprop:Generator_ColumnPropNameInTable="CantidadVentasColumn" msprop:Generator_ColumnVarNameInTable="columnCantidadVentas" msprop:Generator_UserColumnName="CantidadVentas" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
